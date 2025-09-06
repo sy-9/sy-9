@@ -9,6 +9,7 @@ const yao = {
   code: ["Python", "JavaScript", "Java", "Haskell", "Scala"],
   languages_spoken: ["English", "Mandarin", "Malay"],
   goal: "Create apps that make life easier ✨",
+  interest: {"Full-Stack Development", "Artificial Intelligence"]
 }
 ```
 
