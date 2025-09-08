@@ -6,10 +6,10 @@ A little more about me...
 const yao = {
   pronouns: "She | Her",
   occupation: "Final Year Computer Science Student @ Sunway University, Malaysia",
-  code: ["Python", "JavaScript", "Java", "Haskell", "Scala"],
+  code: ["Python", "JavaScript", "Java", "SQL", "Haskell", "Scala"],
   languages_spoken: ["English", "Mandarin", "Malay"],
   goal: "Create apps that make life easier ✨",
-  interest: {"Full-Stack Development", "Artificial Intelligence"]
+  interest: ["Full-Stack Development", "Artificial Intelligence"]
 }
 ```
 
@@ -28,11 +28,10 @@ const yao = {
 ### 🌟 Projects I've Built
 | Technologies Used                     | Project Title                   |
 | ------------------------------------- | ------------------------------- |
-| HTML, CSS, JavaScript                 | **The Flower Loft & Portfolio** |
-| Java, OOP                             | **Pokémon Game**                |
-| Python                                | **Unknown (Exploratory)**       |
-| Haskell                               | **Expense Splitter**            |
-| Scala, ScalaFX                        | **Food Surplus App (SDG Goal 2)** |
+| HTML, CSS, JavaScript                 | **Portfolio & The Flower Loft** |
+| Java, OOP                             | **Pokémon Ga Ole and Catch**                |
+| Haskell                               | **SplitMate (expense splitter app)**            |
+| Scala, ScalaFX                        | **Savo (food surplus app)** |
 
 
 ### 🌐 Socials (lets get in touch :>)
