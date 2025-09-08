@@ -26,12 +26,13 @@ const yao = {
 
 
 ### 🌟 Projects I've Built
-| Technologies Used                     | Project Title                   |
-| ------------------------------------- | ------------------------------- |
-| HTML, CSS, JavaScript                 | **Portfolio & The Flower Loft** |
-| Java, OOP                             | **Pokémon Ga Ole and Catch**                |
-| Haskell                               | **SplitMate (expense splitter app)**            |
-| Scala, ScalaFX                        | **Savo (food surplus app)** |
+| Technologies Used                     | Project Title                                                                 |
+| ------------------------------------- | ----------------------------------------------------------------------------- |
+| HTML, CSS, JavaScript                 | Portfolio & The Flower Loft  |
+| Java, OOP                             | [**Pokémon Ga Ole and Catch**](https://github.com/sy-9/Pokemon-Ga-Ole-and-Catch)  |
+| Haskell                               | [**SplitMate (expense splitter app)**](https://github.com/sy-9/SplitMate) |
+| Scala, ScalaFX                        | [**Savo (food surplus app)**](https://github.com/sy-9/Savo)                   |
+
 
 
 ### 🌐 Socials (lets get in touch :>)
