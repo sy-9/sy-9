@@ -28,7 +28,7 @@ const yao = {
 ### 🌟 Projects I've Built
 | Technologies Used                     | Project Title                                                                 |
 | ------------------------------------- | ----------------------------------------------------------------------------- |
-| HTML, CSS, JavaScript                 | Portfolio & The Flower Loft  |
+| HTML, CSS, JavaScript                 | [**Portfolio**](https://github.com/sy-9/yao) & The Flower Loft  |
 | Java, OOP                             | [**Pokémon Ga Ole and Catch**](https://github.com/sy-9/Pokemon-Ga-Ole-and-Catch)  |
 | Haskell                               | [**SplitMate (expense splitter app)**](https://github.com/sy-9/SplitMate) |
 | Scala, ScalaFX                        | [**Savo (food surplus app)**](https://github.com/sy-9/Savo)                   |
