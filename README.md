@@ -39,5 +39,5 @@ const yao = {
 <p align="left"> <a href="https://www.linkedin.com/in/siew-yao" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> <a href="mailto:siewyao23@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a> </p>
 
 ### ✨ Others 
-- [Resume here — coming soon!]
+- CLick [here](https://github.com/user-attachments/files/22551609/Resume_SiewYao_Sep2025.pdf) to download my resume!
 - If you enjoyed my README, feel free to star this repo and leave a comment. It would mean a lot! 💖
